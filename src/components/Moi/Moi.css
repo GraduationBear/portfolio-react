@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@900&display=swap');
+
+#moi{
+    position:absolute;
+    z-index: 1;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center ;
+
+}
+
+.nom-prenom{
+    font-size: 100px;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 0.2rem;
+    margin-right:250px;
+}
